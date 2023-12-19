@@ -6,7 +6,7 @@ def clicker():
             i+=1
         else:
             break
-    print("You entered 1 ",  i,  " times")
+    print("You entered 1 ",  i,  " times.")
         
 clicker()
         
